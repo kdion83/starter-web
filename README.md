@@ -16,6 +16,8 @@ Deployment test
 
 ## How To Contribute
 
+Test text
+
 ### Copyright
 
 2022 Git.Training
