@@ -15,3 +15,7 @@ Example purpose
 Deployment test
 
 ## How To Contribute
+
+### Copyright
+
+2022 Git.Training
