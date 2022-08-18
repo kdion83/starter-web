@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simply website project
+This is a simple website project for myfeature branch
 
 ## Introduction
 
