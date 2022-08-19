@@ -2,6 +2,8 @@
 
 This is a simple website project for myfeature branch
 
+New change
+
 ## Introduction
 
 Example introduction
